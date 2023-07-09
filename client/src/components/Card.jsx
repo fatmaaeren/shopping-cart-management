@@ -8,7 +8,7 @@ function Card({ item }) {
                     <div className='bg-stone-50 flex flex-col justify-center w-5/6 p-6 transition-all ease-in-out duration-500' >
 
                         <div className="flex justify-center">
-                            <button className="bg-black text-sm py-2 px-4 text-slate-200 w-full" onClick={handleAdd} >Add To Cart</button>
+                            <button className="bg-black text-sm py-2 px-4 text-slate-200 w-full" >Add To Cart</button>
 
                         </div>
 
