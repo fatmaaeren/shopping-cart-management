@@ -60,6 +60,6 @@ const products = [
         price: "49.90",
         img: "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/8339/225/720/8339225720_1_1_2.jpg?t=1685693533474",
     }
-];
+]
 
 module.exports = products;

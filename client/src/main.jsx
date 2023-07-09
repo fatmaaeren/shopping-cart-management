@@ -5,14 +5,12 @@ import './index.css'
 import { BrowserRouter } from 'react-router-dom'
 import { Provider } from 'react-redux'
 import store from './features'
-import { productsFetch } from './features/productsSlice.js'
 
-store.dispatch(productsFetch());
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <BrowserRouter>
     <Provider store={store}>
-      <App />
+        <App />
     </Provider>
   </BrowserRouter >,
 )
