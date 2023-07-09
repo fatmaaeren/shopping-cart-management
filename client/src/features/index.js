@@ -1,5 +1,5 @@
 import { configureStore } from "@reduxjs/toolkit";
-import productsSlice, {productsFetch} from "./productsSlice";
+import productsSlice, {productsFetch }from "./productsSlice";
 import { productsApi } from "./productApi";
 
 const store = configureStore({
