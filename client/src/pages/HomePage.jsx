@@ -3,7 +3,7 @@ import Cards from '../components/Cards'
 
 function HomePage() {
     return (
-        <div className='lg:px-8 px-4 lg:py-6 py-3 absolute top-[100px]'>
+        <div className='lg:px-8 px-4 lg:py-6 py-3 absolute top-[100px] w-screen h-screen'>
             <Cards />
         </div>
         

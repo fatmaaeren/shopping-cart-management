@@ -4,8 +4,8 @@ import axios from "axios";
 const initialState = {
     products: [],
     status: null,
-    error: null,
     loading: false,
+    error: null,
 }
 
 

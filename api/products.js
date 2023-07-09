@@ -52,13 +52,25 @@ const products = [
         id: 9,
         name: "New — Top with a low-cut back",
         price: "17.90",
-        img: "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7078/125/251/7078125251_1_1_2.jpg?t=1681896313231",
+        img: "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/1235/331/400/05/1235331400_1_1_2.jpg?t=1688034564093",
     },
     {
         id: 10,
         name: "New — Loose boyfriend jeans",
         price: "49.90",
-        img: "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/8339/225/720/8339225720_1_1_2.jpg?t=1685693533474",
+        img: "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/1235/331/430/07/1235331430_1_1_2.jpg?t=1688034580195",
+    },
+    {
+        id: 11,
+        name: "New — Loose boyfriend jeans",
+        price: "49.90",
+        img: "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/1147/356/450/1147356450_1_1_2.jpg?t=1686065864292",
+    },
+    {
+        id: 12,
+        name: "New — Loose boyfriend jeans",
+        price: "49.90",
+        img: "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/1344/569/430/06/1344569430_1_1_2.jpg?t=1688034583027",
     }
 ]
 
